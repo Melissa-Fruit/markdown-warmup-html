@@ -1,3 +1,23 @@
-body{
-  background-color: ;
+.border{
+ border-width: 1px;
+ border-style: solid;
+ border-color: black;
+ margin: 50px;
+ padding: 30px;
 }
+.strong{
+  font-weight: bold;
+}
+a{
+  text-decoration: none;
+  color: blue;
+}
+h1{
+  font-weight: 500;
+  color: teal;
+}
+ble, tr, td {
+    padding : 5px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
